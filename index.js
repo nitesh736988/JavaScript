@@ -119,13 +119,13 @@ const newString = gameName.substring(0,3)
 
 // console.log(Math.floor(Date.now()/1000));
 
-let newDate = new Date()
-console.log(newDate)
-console.log(newDate.getMonth())
-console.log(newDate.getDay())
+// let newDate = new Date()
+// console.log(newDate)
+// console.log(newDate.getMonth())
+// console.log(newDate.getDay())
 
-newDate.toLocaleString('default',{
-  weekday: "long",
-})
+// newDate.toLocaleString('default',{
+//   weekday: "long",
+// })
 
-console.log(newDate) 
+// console.log(newDate) 
