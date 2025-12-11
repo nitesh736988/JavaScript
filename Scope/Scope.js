@@ -29,12 +29,42 @@ function one(){
   function Two(){
     const website = "Youtube"
 
-    console.log(userName)
+    // console.log(userName)
 
   }
   // console.log(website)
   Two()
 }
-// one()
+one() 
 
- 
+
+if(true){
+  const username = "hitesh"
+  if(username === "hitesh"){
+    const website = "Youtube"
+    // console.log(username + website);
+
+  }
+  // console.log(website)
+}
+
+// console.log(username)
+
+// *******************Interesting*********************
+
+addOne(5)
+function addOne(num){
+  return num +1
+}
+
+
+// console.log(addOne(5))
+
+addTwo(5)
+const addTwo = function(num){
+  return num + 2
+}
+
+
+
+
