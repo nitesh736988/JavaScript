@@ -15,3 +15,26 @@ const coding = ["js", "ruby", "java", "python", "cpp"]
 // }
 // coding.forEach(printMe)
 
+
+const myCoding = [
+    {
+        languageName: "javascript",
+        languageFileName: "js"
+    },
+
+    {
+        languageName: "java",
+        languageFileName: "js"
+    },
+
+    {
+        languageName: "python",
+        languageFileName: "py"
+    }
+]
+
+myCoding.forEach((item) => {
+
+    console.log(item.languageName)
+})
+
