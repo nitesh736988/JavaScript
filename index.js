@@ -129,3 +129,16 @@ const newString = gameName.substring(0,3)
 // })
 
 // console.log(newDate) 
+
+
+//   ************Control Flow and Loops**************
+
+const userLogedIn = true
+const debitCard = true
+const creditCard = true
+
+if(userLogedIn && debitCard || creditCard){
+    console.log("Allow to Shoping");
+} else {
+    console.log("You cant shoping");
+}

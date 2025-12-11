@@ -8,15 +8,15 @@
 
 // -> Execution Phase 
 
-let val1 = 10
-let val2 = 20
+// let val1 = 10
+// let val2 = 20
 
-function sum(num1, num2){
-  let result = num1 + num2
-  return result
-}
+// function sum(num1, num2){
+//   let result = num1 + num2
+//   return result
+// }
 
-let result = sum(val1,val2)
-let result2 = sum(30,40)
+// let result = sum(val1,val2)
+// let result2 = sum(30,40)
 
 // this part is pendind
